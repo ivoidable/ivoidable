@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Glint<br><br>🌱 I’m currently learning Embedded, and<br><br>💬 Ask me about React Native, Golang, C++<br><br>📫 How to reach me mazenmoataz24@proton.me<br><br>⚡ Fun fact I'm afraid of heights
+🔭 I’m currently working on Glint<br><br>🌱 I’m currently learning Embedded, and Malware development<br><br>💬 Ask me about React Native, Golang, C++<br><br>📫 How to reach me mazenmoataz24@proton.me<br><br>⚡ Fun fact I'm afraid of heights
 
 
 ## 🌐 Socials:
