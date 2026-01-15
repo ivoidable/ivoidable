@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning Embedded Development<br><br>💬 Ask me about Anything Really<br><br>📫 How to reach me mazenmoataz24@proton.me<br>
+<br>🌱 I’m currently learning Embedded Development and Bug Bounty Hunting sometimes<br><br>💬 Ask me about anything really<br><br>📫 How to reach me mazenmoataz24@proton.me<br>
 
 
 ## 🌐 Socials:
