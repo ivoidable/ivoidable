@@ -87,18 +87,6 @@ Applying the same knowledge in the other direction.
 
 ---
 
-## 🚀 Selected Work
-
-> Replace these with 2 or 3 of your strongest repos. Employers read this section first.
-
-| Project | What it does | Stack |
-|---|---|---|
-| `project-name` | One line on the security problem it solves | Python, Docker |
-| `project-name` | One line on what you built and why | Rust, Linux |
-| `project-name` | One line on the outcome or impact | Go, AWS |
-
----
-
 ## 📚 Currently Learning
 
 - Embedded and low-level security (firmware analysis, memory safety)
